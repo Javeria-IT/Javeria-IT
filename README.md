@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=👋+Hey+I'm+Javeria+Mehboob;💜+Frontend+Developer;⚛️+React+Developer;🎨+Tailwind+CSS+Lover;🚀+Future+Full+Stack+Developer;🤖+Learning+Artificial+Intelligence"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=javeriarana310-spec&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/javeriarana310-spec?style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/stars/javeriarana310-spec?style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Javeria-IT&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/Javeria-IT?style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/Javeria-IT?style=for-the-badge&color=blueviolet"/>
 </p>
 
 </div>
@@ -123,10 +123,10 @@ const javeria = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/javeria-
-mehboob-981196322">
+<a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 
 <a href="https://instagram.com">
 <img src="https://skillicons.dev/icons?i=instagram"/>
