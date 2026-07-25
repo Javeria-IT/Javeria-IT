@@ -58,9 +58,9 @@ const javeria = {
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=javeriarana310-spec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Javeria-IT&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=javeriarana310-spec&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Javeria-IT-&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -70,7 +70,7 @@ const javeria = {
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeriarana310-spec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-IT&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,8 +80,7 @@ const javeria = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=javeriarana310-spec&theme=tokyonight&no-frame=true&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Javeria-IT-&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
@@ -90,7 +89,7 @@ const javeria = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=javeriarana310-spec&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javeria-IT&theme=tokyo-night"/>
 
 </p>
 
@@ -100,7 +99,7 @@ const javeria = {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/javeriarana310-spec/javeriarana310-spec/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Javeria-IT/Javeria-IT/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -120,11 +119,12 @@ const javeria = {
 
 <p align="center">
 
-<a href="https://github.com/javeriarana310-spec">
+<a href="https://github.com/Javeria-IT">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/javeria-
+mehboob-981196322">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
