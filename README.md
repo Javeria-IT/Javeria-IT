@@ -58,7 +58,7 @@ const javeria = {
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Javeria-IT&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Javeria-IT&show_icons=true&theme=radical&cache_seconds=86400"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Javeria-IT&theme=tokyonight&hide_border=true"/>
 
@@ -70,7 +70,7 @@ const javeria = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-IT&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-IT&layout=compact&theme=radical&cache_seconds=86400"/>
 
 </p>
 
@@ -81,7 +81,7 @@ const javeria = {
 <p align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javeria-IT&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Javeria-IT&theme=onedark&no-frame=true&row=1&column=6"/>
 
 </p>
 
