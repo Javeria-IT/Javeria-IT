@@ -97,15 +97,7 @@ const javeria = {
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Javeria-IT/Javeria-IT/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # ⚡ Developer Quote
 
