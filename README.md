@@ -76,27 +76,6 @@ const javeria = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Javeria-IT&theme=onedark&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javeria-IT&theme=tokyo-night"/>
-
-</p>
-
----
-
 
 
 # ⚡ Developer Quote
